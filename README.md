@@ -1,7 +1,5 @@
 # 🎓 SalaryScope — Student Placement & Salary Prediction System
 
-🔗 **Live Demo:** [Link](https://placement-helper-website--hiworl10.replit.app)
-
 SalaryScope is a Machine Learning project that predicts:
 
 - Whether a student will be **Placed or Not Placed**
